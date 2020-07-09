@@ -155,10 +155,6 @@ img:hover {
 	opacity: 0.3
 }
 
-.perfil:hover {
-	transition: 4s;
-	transform: rotate3d(7, 0, 3, 192deg);
-}
 .perfil {
 	max-height: 20em;
     display: block;
