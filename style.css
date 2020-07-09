@@ -173,6 +173,8 @@ img:hover {
 	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .video {
 		width: auto;
 	}
+	body {
+		margin: 2px 2px 2px 2px;
 	h1 {
 		text-align: center;
 	}
