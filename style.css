@@ -174,7 +174,7 @@ img:hover {
 		width: auto;
 	}
 	body {
-		margin: 2px 2px 2px 2px;
+		border: 2px 2px 2px 2px;
 	h1 {
 		text-align: center;
 	}
