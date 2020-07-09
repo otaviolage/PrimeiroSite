@@ -170,7 +170,7 @@ img:hover {
 }
 
 @media screen and (max-width: 480px) {
-	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .video {
+	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .logo-principal {
 		width: auto;
 	}
 	nav a {
