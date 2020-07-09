@@ -170,14 +170,8 @@ img:hover {
 }
 
 @media screen and (max-width: 480px) {
-	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .logo-principal {
+	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .video {
 		width: auto;
-	}
-	.logo-principal {
-		height: auto;
-	}
-	nav a {
-		text-align: center;
 	}
 	h1 {
 		text-align: center;
