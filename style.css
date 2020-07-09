@@ -173,6 +173,9 @@ img:hover {
 	.caixa, .principal, .conteudo-experiencia, .mapa-conteudo, .logo-principal {
 		width: auto;
 	}
+	.logo-principal {
+		height: auto;
+	}
 	nav a {
 		text-align: center;
 	}
